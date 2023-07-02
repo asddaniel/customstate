@@ -1,0 +1,11 @@
+{
+  "name": "customstate",
+  "version": "1.0.0",
+  "description": "create custom state for data in any app like react or other ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "daniel assani",
+  "license": "MIT"
+}
